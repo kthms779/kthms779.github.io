@@ -1,0 +1,82 @@
+.jumbotron{
+  background-color: #000000;
+}
+
+i{
+  color: yellow;
+}
+
+body{
+  font-family: Georgia;
+}
+
+.cpad{
+  padding-top: 15px
+}
+
+#logo{
+  position: relative;
+  right: 100px;
+  top: 10px;
+}
+
+#kevinblog{
+  position: relative;
+  bottom: 60px;
+  left: 10px;
+}
+
+.tab-pane{
+  font-size: 20px;
+}
+
+.nav{
+  font-size: 20px;
+}
+
+a{
+  color: black;
+}
+
+.nav-pills .nav-link.active{
+  background-color: #000000
+}
+
+#abtme{
+  font-size: 20px
+}
+
+#sticky-sidebar {
+position: relative;
+background-color: #000000;
+color: white;
+height: 100%;
+width: 15%;
+}
+
+
+#main{
+  background-color: white;
+  height: 100%;
+  width: 85%;
+  padding-left: 10px;
+}
+
+#bgblack{
+  background-color: #000000;
+}
+
+
+.container-fluid .row .col-2.px-1.position-fixed .btn.dropdown-toggle{
+  background-color: #000000;
+  color: white;
+}
+
+#jumborest{
+  margin-right: 10px;
+}
+
+.imgborder{
+  border-width: 1px;
+  border-color: white;
+}
